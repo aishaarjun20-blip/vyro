@@ -1,0 +1,6 @@
+{
+  "name": "VYRO",
+  "description": "Premium athletic sportswear store featuring high-performance jerseys, sports pants, and custom sets with Normal and Premium quality tiers and direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
